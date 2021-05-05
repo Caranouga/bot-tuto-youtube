@@ -1,0 +1,19 @@
+{
+  "name": "tuto-youtube",
+  "version": "0.1.0",
+  "description": "Le bot discord de Caranouga pour le tuto youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tuto",
+    "youtube",
+    "bot"
+  ],
+  "author": "Caranouga",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
