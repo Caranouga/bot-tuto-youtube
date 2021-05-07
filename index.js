@@ -12,4 +12,4 @@ client.on('message', msg => {
   }
 });
 
-client.log('')
+client.login('')
